@@ -1,0 +1,16 @@
+{
+  "name": "dsa-2",
+  "version": "1.0.0",
+  "description": "for problem solving approrach",
+  "main": "index.js",
+  "scripts": {
+    "start":"index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "problem",
+    "solving"
+  ],
+  "author": "mohammad abu hossain",
+  "license": "ISC"
+}
